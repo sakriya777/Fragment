@@ -26,4 +26,6 @@
 
     <!-- Text for the exception message in FragmentCommunicate. -->
     <string name="exception_message">must implement OnFragmentInteractionListener</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
 </resources>
